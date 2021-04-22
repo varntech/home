@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
-    <name>FLY006.DAT.1617674336</name>
+    <name>FLY006.DAT</name>
     <LineString>
-      <coordinates />
+      <coordinates>
+      </coordinates>
     </LineString>
   </Placemark>
 </kml>
