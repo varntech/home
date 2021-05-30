@@ -7,6 +7,14 @@
 	xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
 <time>2002-02-27T17:18:33Z</time>
 <bounds minlat="42.401051" minlon="-71.126602" maxlat="42.468655" maxlon="-71.102973"/>
+<wpt lat="42.438878" lon="-71.119277">
+	<ele>44.586548</ele>
+	<time>2001-11-28T21:05:28Z</time>
+	<name>5066</name>
+	<desc><![CDATA[5066]]></desc>
+	<sym>Crossing</sym>
+	<type><![CDATA[Crossing]]></type>
+</wpt>
 <rte>
 	<name>BELLEVUE</name>
 	<desc><![CDATA[Bike Loop Bellevue]]></desc>
